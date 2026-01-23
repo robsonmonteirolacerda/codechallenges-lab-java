@@ -1,5 +1,7 @@
 # 🚀 CodeChallenges Lab — Java (Do Zero ao Avançado)
 
+![Progress](https://img.shields.io/badge/progresso-0%25-red)
+
 > **297 desafios em Java Core** para construir base sólida, raciocínio lógico e maturidade profissional.
 
 ---
@@ -28,50 +30,36 @@ Ao final, você será capaz de:
 
 ---
 
+## 🗺️ Roadmap de Desafios
+
+Este repositório segue um roadmap fechado de **297 desafios em Java**, divididos em três níveis:
+
+### 🟢 Nível 1 — Fundamentos (1–99)
+
+Foco em lógica, controle de fluxo, strings, arrays e métodos.
+
+### 🟡 Nível 2 — Intermediário (100–198)
+
+Foco em Programação Orientada a Objetos, Collections, Exceptions, Datas e Java Core real.
+
+### 🔴 Nível 3 — Avançado (199–297)
+
+Foco em CRUDs progressivos, arquitetura, concorrência, testes e qualidade de código.
+
+📌 O detalhamento completo de cada desafio está organizado nas pastas do projeto.
+
+---
+
 ## 🗂 Estrutura do Repositório
 
 ```
 codechallenges-lab-java/
  ├── 00-orientacoes-gerais/
  ├── 01-nivel-basico-99-desafios/
- │    ├── desafio-01/
- │    ├── desafio-02/
- │    └── ...
  ├── 02-nivel-intermediario-99-desafios/
  ├── 03-nivel-avancado-99-desafios/
- ├── 04-desafios-arquiteturais/
  └── README.md
 ```
-
----
-
-## 🟢 Nível 1 — Fundamentos (99 desafios)
-
-**Foco:** lógica, sintaxe, controle de fluxo, strings, arrays e métodos.
-
-✔ Estruturas básicas
-✔ Pensamento lógico
-✔ Core da linguagem Java
-
----
-
-## 🟡 Nível 2 — Intermediário (99 desafios)
-
-**Foco:** POO, Collections, Exceptions, Datas e Java Util.
-
-✔ Modelagem de domínio
-✔ Uso correto da API Java
-✔ Código reutilizável
-
----
-
-## 🔴 Nível 3 — Avançado (99 desafios)
-
-**Foco:** CRUDs reais, arquitetura, concorrência, testes e qualidade.
-
-✔ Sistemas completos
-✔ Padrões de projeto
-✔ Código profissional
 
 ---
 
@@ -87,16 +75,6 @@ Exemplo:
 ```
 feat: desafio 01 - verificar se número é par ou ímpar
 ```
-
----
-
-## 🧩 Template de Desafio
-
-Cada desafio contém:
-
-* `README.md` (enunciado)
-* Código-fonte
-* Exemplos de entrada/saída
 
 ---
 
