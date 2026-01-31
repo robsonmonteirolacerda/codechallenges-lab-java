@@ -1,5 +1,7 @@
-public class Main {
+package desafio01;
 
+public class Main {
+    
     public static void main(String[] args) {
         int numero = 10;
 
@@ -9,4 +11,8 @@ public class Main {
             System.out.println("Ímpar");
         }
     }
+
+
 }
+
+
