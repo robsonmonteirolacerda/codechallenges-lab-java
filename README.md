@@ -64,6 +64,12 @@ I focus on **business rules clarity, code organization, and software engineering
 
 ---
 
+## 🇧🇷 Resumo (PT-BR)
+
+Desenvolvedor com foco em **backend Java**, atuando em sistemas corporativos e administrativos, com experiência em **ambientes legados (Java EE / Java 7)** e em processos de **modernização de sistemas para arquiteturas modernas com Spring Boot e frontend React**.
+
+Perfil voltado para **organização de código, clareza de regras de negócio, boas práticas de engenharia de software** e desenvolvimento de soluções simples, sustentáveis e de fácil manutenção.
+
 ## 📊 GitHub Stats
 
 ![Robson GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonmonteirolacerda&show_icons=true&theme=tokyonight&hide_title=true)
