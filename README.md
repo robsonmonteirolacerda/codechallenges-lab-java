@@ -1,76 +1,80 @@
----
+# 👋 Hi, I'm Robson Monteiro
 
-# ✅ README — `codechallenges-lab-java`
-*(Lab técnico estruturado – muito bom para recrutadores)*
+🎯 Software Developer  
+☕ Java Backend | Spring Boot | System Architecture  
+⚛️ React Frontend | Vite | Tailwind CSS
 
-```md
-# CodeChallenges Lab – Java
+I'm a software developer with experience in **corporate and administrative systems**, working with both **legacy environments (Java EE / Java 7)** and the **modernization of applications into modern architectures using Spring Boot and React frontend**.
 
-Technical laboratory focused on algorithmic challenges, problem solving, and Java fundamentals.
-
----
-
-## 🚀 Tech Stack
-
-- Java 17+
-- Maven
-- JUnit
-- Git
+I focus on **business rules clarity, code organization, and software engineering best practices**, always aiming for simple, sustainable, and maintainable solutions.
 
 ---
 
-## 🧠 Project Context
+## 🧠 About Me
 
-This repository is a personal laboratory designed to improve problem-solving skills, algorithmic thinking, and mastery of Java fundamentals.
-
-It focuses on:
-
-- Logic building
-- Data structures
-- Clean code practices
-- Algorithm optimization
-- Progressive complexity challenges
+- 👨‍💻 Experience in **administrative and corporate systems**
+- 🔄 Strong background in **legacy system maintenance and evolution**
+- 🚀 Gradual migration of applications to **Spring Boot**
+- 🏗️ Continuous interest in **architecture, business domain modeling, and code quality**
+- 🌱 Continuous growth in the **modern Java ecosystem and React frontend**
 
 ---
 
-## ⚙️ Structure
+## 🛠️ Technologies & Tools
 
-Challenges are organized by:
+### Backend
 
-- Difficulty level
-- Topic
-- Algorithm type
-- Concept category
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
----
+### Frontend
 
-## 🧪 Topics Covered
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- Control structures
-- Collections
-- Streams
-- Recursionmumummmuuum
-- Algorithms
-- Data structures
-- Object-oriented principles
-- Functional programming concepts
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🏗️ Goals
+## 🚀 Project Experience
 
-- Improve logical reasoning
-- Strengthen Java foundations
-- Build technical consistency
-- Prepare for real-world system design
-- Support backend architecture skills
+🔹 **Installment and Payment Guide Generation System**
+
+- Business rule implementation
+- Automatic document generation
+- Java EE backend with planned **migration to Spring Boot**
+
+🔹 **Corporate REST APIs**
+
+- Spring Boot + JPA
+- Layered architecture
+- Strong focus on business rules and domain clarity
+
+🔹 **Modern Administrative Frontend**
+
+- React + Vite + Tailwind
+- Clean, simple, and responsive interfaces
+- REST API integration
 
 ---
 
-## ▶️ How to Run
+## 📊 GitHub Stats
 
-```bash
-git clone https://github.com/robsonmonteirolacerda/codechallenges-lab-java.git
-cd codechallenges-lab-java
-mvn test
-```
+![Robson GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonmonteirolacerda&show_icons=true&theme=tokyonight&hide_title=true)
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: _(https://www.linkedin.com/in/robson-monteiro-39075a1a1/)_
+<!-- - 📧 Email: *(robsonmonteiro_ads@gmail.com)* -->
+
+---
+
+⭐ Profile focused on corporate software development, code organization, and continuous technical evolution.
