@@ -1,103 +1,69 @@
-# 🚀 CodeChallenges Lab — Java (Do Zero ao Avançado)
-
-![Progress](https://img.shields.io/badge/progresso-0%25-red)
-
-> **297 desafios em Java Core** para construir base sólida, raciocínio lógico e maturidade profissional.
 
 ---
 
-## 🎯 Objetivo do Projeto
+# ✅ README — `codechallenges-lab-java`
+*(Lab técnico estruturado – muito bom para recrutadores)*
 
-Este repositório foi criado para **treinar Java de forma progressiva**, indo dos fundamentos absolutos até sistemas avançados e arquiteturas reais.
+```md
+# CodeChallenges Lab – Java
 
-Ao final, você será capaz de:
-
-* Pensar em Java (não apenas escrever código)
-* Modelar soluções com POO madura
-* Criar CRUDs robustos
-* Trabalhar com concorrência, exceções e coleções
-* Evoluir naturalmente para Spring Boot e microsserviços
+Technical laboratory focused on algorithmic challenges, problem solving, and Java fundamentals.
 
 ---
 
-## 🧠 Metodologia
-
-* **99 desafios por nível**
-* Repetição inteligente dos fundamentos
-* Evolução gradual de complexidade
-* Um desafio por commit
-* Código limpo > código rápido
+## 🚀 Tech Stack
+- Java 17+
+- Maven
+- JUnit
+- Git
 
 ---
 
-## 🗺️ Roadmap de Desafios
+## 🧠 Project Context
+This repository is a personal laboratory designed to improve problem-solving skills, algorithmic thinking, and mastery of Java fundamentals.
 
-Este repositório segue um roadmap fechado de **297 desafios em Java**, divididos em três níveis:
-
-### 🟢 Nível 1 — Fundamentos (1–99)
-
-Foco em lógica, controle de fluxo, strings, arrays e métodos.
-
-### 🟡 Nível 2 — Intermediário (100–198)
-
-Foco em Programação Orientada a Objetos, Collections, Exceptions, Datas e Java Core real.
-
-### 🔴 Nível 3 — Avançado (199–297)
-
-Foco em CRUDs progressivos, arquitetura, concorrência, testes e qualidade de código.
-
-📌 O detalhamento completo de cada desafio está organizado nas pastas do projeto.
+It focuses on:
+- Logic building
+- Data structures
+- Clean code practices
+- Algorithm optimization
+- Progressive complexity challenges
 
 ---
 
-## 🗂 Estrutura do Repositório
-
-```
-codechallenges-lab-java/
- ├── 00-orientacoes-gerais/
- ├── 01-nivel-basico-99-desafios/
- ├── 02-nivel-intermediario-99-desafios/
- ├── 03-nivel-avancado-99-desafios/
- └── README.md
-```
+## ⚙️ Structure
+Challenges are organized by:
+- Difficulty level
+- Topic
+- Algorithm type
+- Concept category
 
 ---
 
-## 📏 Regras do Jogo
-
-* ❌ Não pular desafios
-* ✔ Resolver primeiro simples, depois refatorar
-* ✔ Um commit por desafio
-* ✔ Commits claros e objetivos
-
-Exemplo:
-
-```
-feat: desafio 01 - verificar se número é par ou ímpar
-```
+## 🧪 Topics Covered
+- Control structures
+- Collections
+- Streams
+- Recursion
+- Algorithms
+- Data structures
+- Object-oriented principles
+- Functional programming concepts
 
 ---
 
-## 🏁 Status do Progresso
-
-* [ ] Nível 1 — Fundamentos
-* [ ] Nível 2 — Intermediário
-* [ ] Nível 3 — Avançado
-
----
-
-## 🚀 Próximo Passo
-
-Após concluir os desafios:
-➡️ Spring Boot
-➡️ JPA / Hibernate
-➡️ Segurança
-➡️ APIs REST profissionais
+## 🏗️ Goals
+- Improve logical reasoning
+- Strengthen Java foundations
+- Build technical consistency
+- Prepare for real-world system design
+- Support backend architecture skills
 
 ---
 
-## ✍️ Autor
+## ▶️ How to Run
 
-**Robson Monteiro**
-
-> "Disciplina constrói senioridade."
+```bash
+git clone https://github.com/robsonmonteirolacerda/codechallenges-lab-java.git
+cd codechallenges-lab-java
+mvn test
