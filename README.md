@@ -1,4 +1,3 @@
-
 ---
 
 # ✅ README — `codechallenges-lab-java`
@@ -12,6 +11,7 @@ Technical laboratory focused on algorithmic challenges, problem solving, and Jav
 ---
 
 ## 🚀 Tech Stack
+
 - Java 17+
 - Maven
 - JUnit
@@ -20,9 +20,11 @@ Technical laboratory focused on algorithmic challenges, problem solving, and Jav
 ---
 
 ## 🧠 Project Context
+
 This repository is a personal laboratory designed to improve problem-solving skills, algorithmic thinking, and mastery of Java fundamentals.
 
 It focuses on:
+
 - Logic building
 - Data structures
 - Clean code practices
@@ -32,7 +34,9 @@ It focuses on:
 ---
 
 ## ⚙️ Structure
+
 Challenges are organized by:
+
 - Difficulty level
 - Topic
 - Algorithm type
@@ -41,10 +45,11 @@ Challenges are organized by:
 ---
 
 ## 🧪 Topics Covered
+
 - Control structures
 - Collections
 - Streams
-- Recursion
+- Recursionmumummmuuum
 - Algorithms
 - Data structures
 - Object-oriented principles
@@ -53,6 +58,7 @@ Challenges are organized by:
 ---
 
 ## 🏗️ Goals
+
 - Improve logical reasoning
 - Strengthen Java foundations
 - Build technical consistency
@@ -67,3 +73,4 @@ Challenges are organized by:
 git clone https://github.com/robsonmonteirolacerda/codechallenges-lab-java.git
 cd codechallenges-lab-java
 mvn test
+```
